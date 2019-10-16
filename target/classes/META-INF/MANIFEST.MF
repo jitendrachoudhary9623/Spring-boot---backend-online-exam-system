@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springJDBC
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: choudhaj
+Implementation-Vendor-Id: com.yourname
+Build-Jdk: 1.8.0_25
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springJDBC
+Created-By: Maven Integration for Eclipse
+
